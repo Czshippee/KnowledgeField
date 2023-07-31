@@ -21,6 +21,10 @@
 
 - [计算机网络](docs/计算机网络/计算机网络.md)
 
+## Python
+
+- [Python](docs/Python/Python.md)
+
 ## Java
 
 - [Java](docs/Java/Java.md)
@@ -41,6 +45,8 @@
 
 - [MachineLearning](docs/MachineLearning/机器学习知识点.md)
 
+## 推荐系统
+- [Recommender System](docs/推荐系统/推荐系统.md)
 
 
 ## 更新记录
@@ -53,3 +59,4 @@
 - #6_MachineLearning 2023/7/27
 - #7_PDF_Update 2023/7/27
 - #8_Python_Update 2023/7/31
+- #9_推荐系统_Update 2023/7/31
